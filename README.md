@@ -1,1 +1,1 @@
-# Repository for final project
+# AI-Powered Sentiment & Emotion Detection Server 
